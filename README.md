@@ -1,3 +1,3 @@
-# Do you want to work at Codely?
+<img src="https://github.com/CodelyTV/job-offers/raw/master/offers-header.jpg" alt="¿Quieres trabajar en Codely?" width="100%">
 
-✨ Our open positions: https://github.com/CodelyTV/job-offers/wiki 
+✨ Puedes ver nuestras posiciones abiertas [aquí](https://github.com/CodelyTV/job-offers/wiki) 

@@ -1,8 +1,13 @@
-<img src="https://github.com/CodelyTV/job-offers/raw/master/offers-header.jpg" alt="¿Quieres trabajar en Codely?" width="100%">
+![¿Quieres trabajar en Codely?](img/codely-job-offers-header.jpg)
 
-✨ En la wiki de este repositorio puedes ver [qué ofertas de trabajo estamos gestionando actualmente](https://github.com/CodelyTV/job-offers/wiki).
+👋 ¡Buenas!
 
-## Más información
+En la wiki de este repositorio puedes ver [qué ofertas de trabajo estamos gestionando actualmente](https://github.com/CodelyTV/job-offers/wiki) 😬
 
-* Iremos actualizando el [apartado sobre las fases del proceso de selección](https://github.com/CodelyTV/job-offers/wiki/👣-Fases-del-proceso-de-selección) a medida que avancemos en los procesos 🤟
-* Cualquier duda que te surja puedes mandarnos un email a jobs@codely.tv y te responderemos lo antes posible 😊
+Si quieres hacerte una idea rápida de las ofertas y ver las caras de la gente con la que trabajarías, aquí vídeo de presentación 😊
+
+[![Vídeo de presentación de las ofertas](img/codely-team.gif)](https://vimeo.com/731833654/59b0368994)
+
+¡Un saludo y muchas gracias por el interés!
+
+PD: Se agradece [estrellita al repo](https://github.com/CodelyTV/job-offers/stargazers) por el curro y poder visibilizarlo en GitHub 👼

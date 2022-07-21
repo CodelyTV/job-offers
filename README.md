@@ -6,7 +6,9 @@ En la wiki de este repositorio puedes ver [qué ofertas de trabajo estamos gesti
 
 Si quieres hacerte una idea rápida de las ofertas y ver las caras de la gente con la que trabajarías, aquí vídeo de presentación 😊
 
-[![Vídeo de presentación de las ofertas](img/codely-team.gif)](https://vimeo.com/731833654/59b0368994)
+<a href="https://vimeo.com/731833654/59b0368994">
+  <img src="img/codely-team.gif" width="100%" alt="Vídeo de presentación de las ofertas" />
+</a>
 
 ¡Un saludo y muchas gracias por el interés!
 
